@@ -8,7 +8,9 @@
 ---
 
 ## 🚀 Projects
-  OWSB Purchase Order System -A simple purchase order management system handling suppliers, requests, orders, sales, inventory, and payments. Built in Java with file-based storage and a JFrame UI. Made in collaboration with classmates.
+1. OWSB Purchase Order System -A simple purchase order management system handling suppliers, requests, orders, sales, inventory, and payments. Built in Java with file-based storage and a JFrame UI. Made in collaboration with classmates.
+
+LINK- https://github.com/mahdifahumie10/owsb-purchase-order-system
 
 (More projects coming soon...)
 
