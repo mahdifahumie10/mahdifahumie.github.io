@@ -21,6 +21,6 @@
 
 ---
 
-## Contanct
+## Contact
 Email: [mahdifahumie@gmail.com](mailto:mahdifahumie@gmail.com)  
  Phone: +60 16 757 3483 (call and WhatsApp) | +94 76 888 1018 (only WhatsApp)
