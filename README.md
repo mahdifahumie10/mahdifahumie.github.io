@@ -22,7 +22,9 @@ LINK - https://github.com/mahdifahumie10/Library-Management-System.git
 
 ## 🛠 Skills
 **Programming:** C, C++, Java (NetBeans), Python (PyCharm), SQL, R (RStudio), HTML (ASP.NET on VS 2022) (learning)
+
 **Tools:** Code::Blocks, Visual Studio Code/2022, Apache NetBeans, PyCharm, RStudio  
+
 **Other:** Microsoft Office, Photoshop *(familiar)*, Flutter *(familiar)*  
 
 ---
