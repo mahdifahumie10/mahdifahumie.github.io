@@ -12,10 +12,13 @@
 
 LINK- https://github.com/mahdifahumie10/OWSB-Purchase-Order-System.git
 
-2. Library Management System – Developed a console-based library management system in C programming using Code::Blocks with the help of class mates. The system allows library staff and users to manage books, members, and borrowing records efficiently. Implemented modular functions, file handling (TXT storage), and a menu-driven interface to simulate real-world library operations.
+2. Library Management System – Developed a console-based library management system in C programming using Code::Blocks with the help of classmates. The system allows library staff and users to manage books, members, and borrowing records efficiently. Implemented modular functions, file handling (TXT storage), and a menu-driven interface to simulate real-world library operations.
 
 LINK - https://github.com/mahdifahumie10/Library-Management-System.git
 
+3. KL Trip Planner System - Created a simple console-based trip planner system using Python programming language with the help of classmates. Developed on PyCharm but was recently modified using VS Code. This program focuses on allowing individuals to browse through and book travel destinations, upload available travel destinations or manage user accounts, based on different user roles
+
+LINK - https://github.com/mahdifahumie10/KL-Trip-Planner-System.git
 (More projects coming soon...)
 
 ---
