@@ -10,7 +10,7 @@
 ## 🚀 Projects
 1. OWSB Purchase Order System -A simple purchase order management system handling suppliers, requests, orders, sales, inventory, and payments. Built in Java with file-based storage and a JFrame UI. Made in collaboration with classmates.
 
-LINK- https://github.com/mahdifahumie10/owsb-purchase-order-system
+LINK- https://github.com/mahdifahumie10/OWSB-Purchase-Order-System.git
 
 2. Library Management System – Developed a console-based library management system in C programming using Code::Blocks with the help of class mates. The system allows library staff and users to manage books, members, and borrowing records efficiently. Implemented modular functions, file handling (TXT storage), and a menu-driven interface to simulate real-world library operations.
 
