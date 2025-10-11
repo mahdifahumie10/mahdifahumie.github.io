@@ -12,6 +12,10 @@
 
 LINK- https://github.com/mahdifahumie10/owsb-purchase-order-system
 
+2. Library Management System – Developed a console-based library management system in C programming using Code::Blocks with the help of class mates. The system allows library staff and users to manage books, members, and borrowing records efficiently. Implemented modular functions, file handling (TXT storage), and a menu-driven interface to simulate real-world library operations.
+
+LINK - https://github.com/mahdifahumie10/Library-Management-System.git
+
 (More projects coming soon...)
 
 ---
