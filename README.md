@@ -19,6 +19,11 @@ LINK - https://github.com/mahdifahumie10/Library-Management-System.git
 3. KL Trip Planner System - Created a simple console-based trip planner system using Python programming language with the help of classmates. Developed on PyCharm but was recently modified using VS Code. This program focuses on allowing individuals to browse through and book travel destinations, upload available travel destinations or manage user accounts, based on different user roles
 
 LINK - https://github.com/mahdifahumie10/KL-Trip-Planner-System.git
+
+4. Job/Resume Matching System - Developed a simple CLI-based system using C++ programming language in collaboration with teammamtes. This program makes use of both linked list and array data structures to store, sort and retrieve jobs/resume data from CSV files, and makes use of a simple keyword matching algorithm that allows users to find the best job matches for each resume
+
+LINK - https://github.com/mahdifahumie10/Job-Resume-Matching-System.git
+
 (More projects coming soon...)
 
 ---
