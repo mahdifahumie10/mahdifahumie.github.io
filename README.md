@@ -28,6 +28,10 @@ LINK - https://github.com/mahdifahumie10/Job-Resume-Matching-System.git
 
 LINK - https://github.com/mahdifahumie10/EduConnect-Mobile.git
 
+6. EduConnect Web - Developed a web application with the use of the .NET framework to creating an educational website where lecturers can upload notes/quizzes, and students can view notes/answer quizzes. Implemented frontend design through HTML/CSS, backend logic using C# and database using SQL
+
+LINK - https://github.com/mahdifahumie10/EduConnect-Web.git
+
 (More projects coming soon...)
 
 ---
