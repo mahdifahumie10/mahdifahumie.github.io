@@ -24,6 +24,10 @@ LINK - https://github.com/mahdifahumie10/KL-Trip-Planner-System.git
 
 LINK - https://github.com/mahdifahumie10/Job-Resume-Matching-System.git
 
+5 - EduConnect Mobile - Developed a simple mobile application using Flutter that integrates users such as students, lecturers and clubs under one application. Makes use of Firbase for data storage and retrieval
+
+LINK - https://github.com/mahdifahumie10/EduConnect-Mobile.git
+
 (More projects coming soon...)
 
 ---
