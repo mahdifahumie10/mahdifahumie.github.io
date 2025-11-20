@@ -32,6 +32,10 @@ LINK - https://github.com/mahdifahumie10/EduConnect-Mobile.git
 
 LINK - https://github.com/mahdifahumie10/EduConnect-Web.git
 
+7. Airport Simulation System - Created an aiport simulation system with the use of Java to show how concurrent programming concepts can be used in resource management and concurrent operations. 
+
+LINK - https://github.com/mahdifahumie10/Airport-Simulation-System.git
+
 (More projects coming soon...)
 
 ---
